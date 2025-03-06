@@ -8,3 +8,5 @@ userRouter.post("/login", loginUser)
 userRouter.post("/google", googleLogin)
 
 export default userRouter;
+
+//add new user type "unpaid"
